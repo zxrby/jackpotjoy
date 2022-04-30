@@ -58,3 +58,28 @@ local string_1 = "Rainbow Melancholy Hair";
 local string_2 = "1000000000";
 local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 Target:FireServer(string_1, string_2);
+
+
+local string_1 = "3D Glitch TV Head";
+local string_2 = "4444444444444";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Glitch Head";
+local string_2 = "4444444444444";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Purple Glitch Antlers";
+local string_2 = "4444444444444";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Glitched Monster Mask";
+local string_2 = "4444444444444";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
