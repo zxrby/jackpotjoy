@@ -83,3 +83,27 @@ local string_2 = "4444444444444";
 local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 Target:FireServer(string_1, string_2);
 
+
+local string_1 = "Forward Tilt Samurai Hat";
+local string_2 = "1000000000";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Samurai Hat";
+local string_2 = "1000000000";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Angel Samurai Hat";
+local string_2 = "1000000000";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
+
+local string_1 = "Red Samurai Helmet";
+local string_2 = "1000000000";
+local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+Target:FireServer(string_1, string_2);
+
