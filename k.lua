@@ -1,4 +1,4 @@
-local amount = 98
+local amount = 191
 spawn(function()
    while wait() do
        pcall(function()
